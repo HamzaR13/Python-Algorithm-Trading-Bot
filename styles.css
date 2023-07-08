@@ -1,0 +1,22 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a49b9b;
+  }
+  
+  header {
+    background-color: #3afb1c;
+    color: #000000;
+    padding: 20px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  #output {
+    margin-top: 10px;
+    background-color: #3afb1c;
+    padding: 10px;
+  }
+  
